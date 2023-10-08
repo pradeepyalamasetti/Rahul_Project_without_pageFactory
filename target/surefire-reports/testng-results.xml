@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="2" failed="2" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-10-08T08:06:46 IST" name="Data Driven Test" finished-at="2023-10-08T08:07:21 IST" duration-ms="35181">
+  <suite started-at="2023-10-08T08:49:45 IST" name="Data Driven Test" finished-at="2023-10-08T08:49:55 IST" duration-ms="9992">
     <groups>
     </groups>
-    <test started-at="2023-10-08T08:06:46 IST" name="LoginTest" finished-at="2023-10-08T08:06:55 IST" duration-ms="8850">
+    <test started-at="2023-10-08T08:49:45 IST" name="LoginTest" finished-at="2023-10-08T08:49:54 IST" duration-ms="9386">
       <class name="testCases.TC_001_LoginTest">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_001_LoginTest@4e0ae11f]" started-at="2023-10-08T08:06:47 IST" name="setup" finished-at="2023-10-08T08:06:52 IST" duration-ms="4873" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_001_LoginTest@4e0ae11f]" started-at="2023-10-08T08:49:45 IST" name="setup" finished-at="2023-10-08T08:49:50 IST" duration-ms="5240" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,198 +18,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginAsbankManager()[pri:0, instance:testCases.TC_001_LoginTest@4e0ae11f]" started-at="2023-10-08T08:06:52 IST" name="loginAsbankManager" finished-at="2023-10-08T08:06:55 IST" duration-ms="3223" status="PASS">
+        <test-method signature="loginAsbankManager()[pri:0, instance:testCases.TC_001_LoginTest@4e0ae11f]" started-at="2023-10-08T08:49:50 IST" name="loginAsbankManager" finished-at="2023-10-08T08:49:54 IST" duration-ms="3271" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginAsbankManager -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001_LoginTest@4e0ae11f]" started-at="2023-10-08T08:06:55 IST" name="tearDown" finished-at="2023-10-08T08:06:55 IST" duration-ms="202" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001_LoginTest@4e0ae11f]" started-at="2023-10-08T08:49:54 IST" name="tearDown" finished-at="2023-10-08T08:49:54 IST" duration-ms="206" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testCases.TC_001_LoginTest -->
     </test> <!-- LoginTest -->
-    <test started-at="2023-10-08T08:06:56 IST" name="AddCustomerLoginTest" finished-at="2023-10-08T08:07:21 IST" duration-ms="25707">
-      <class name="testCases.TC_002_AddCustomerLoginTest">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_002_AddCustomerLoginTest@56dc1551]" started-at="2023-10-08T08:06:56 IST" name="setup" finished-at="2023-10-08T08:06:58 IST" duration-ms="2102" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="addCustomer(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_AddCustomerLoginTest@56dc1551]" started-at="2023-10-08T08:07:00 IST" name="addCustomer" data-provider="LoginData" finished-at="2023-10-08T08:07:01 IST" duration-ms="1204" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Apple]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[setti]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[A235ZO]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[Customer added successfully]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- addCustomer -->
-        <test-method signature="addCustomer(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_AddCustomerLoginTest@56dc1551]" started-at="2023-10-08T08:07:01 IST" name="addCustomer" data-provider="LoginData" finished-at="2023-10-08T08:07:11 IST" duration-ms="10078" status="FAIL">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Bat]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[setti]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[WE45opop]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[Customer added successfully]]>
-              </value>
-            </param>
-          </params>
-          <exception class="java.lang.AssertionError">
-            <message>
-              <![CDATA[Customer not added successfully]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: Customer not added successfully
-at org.testng.Assert.fail(Assert.java:111)
-at testCases.TC_002_AddCustomerLoginTest.addCustomer(TC_002_AddCustomerLoginTest.java:58)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:566)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
-at org.testng.TestRunner.privateRun(TestRunner.java:848)
-at org.testng.TestRunner.run(TestRunner.java:621)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
-at org.testng.SuiteRunner.run(SuiteRunner.java:336)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
-at org.testng.TestNG.runSuites(TestNG.java:1114)
-at org.testng.TestNG.run(TestNG.java:1082)
-at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
-at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
-at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
-at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
-at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
-at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
-at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- addCustomer -->
-        <test-method signature="addCustomer(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_AddCustomerLoginTest@56dc1551]" started-at="2023-10-08T08:07:11 IST" name="addCustomer" data-provider="LoginData" finished-at="2023-10-08T08:07:21 IST" duration-ms="10048" status="FAIL">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Cat]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[setti]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[As1256fp]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[Customer added successfully]]>
-              </value>
-            </param>
-          </params>
-          <exception class="java.lang.AssertionError">
-            <message>
-              <![CDATA[Customer not added successfully]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: Customer not added successfully
-at org.testng.Assert.fail(Assert.java:111)
-at testCases.TC_002_AddCustomerLoginTest.addCustomer(TC_002_AddCustomerLoginTest.java:58)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:566)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
-at org.testng.TestRunner.privateRun(TestRunner.java:848)
-at org.testng.TestRunner.run(TestRunner.java:621)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
-at org.testng.SuiteRunner.run(SuiteRunner.java:336)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
-at org.testng.TestNG.runSuites(TestNG.java:1114)
-at org.testng.TestNG.run(TestNG.java:1082)
-at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
-at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
-at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
-at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
-at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
-at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
-at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- addCustomer -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002_AddCustomerLoginTest@56dc1551]" started-at="2023-10-08T08:07:21 IST" name="tearDown" finished-at="2023-10-08T08:07:21 IST" duration-ms="305" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TC_002_AddCustomerLoginTest -->
+    <test started-at="2023-10-08T08:49:55 IST" name="AddCustomerLoginTest" finished-at="2023-10-08T08:49:55 IST" duration-ms="1">
     </test> <!-- AddCustomerLoginTest -->
   </suite> <!-- Data Driven Test -->
 </testng-results>

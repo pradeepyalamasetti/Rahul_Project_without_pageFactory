@@ -4,10 +4,10 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="3.223">
+           time="3.271">
   <properties />
   
   
-            <testcase name="loginAsbankManager" time="3.223" classname="testCases.TC_001_LoginTest" />
+            <testcase name="loginAsbankManager" time="3.271" classname="testCases.TC_001_LoginTest" />
       
 </testsuite>
