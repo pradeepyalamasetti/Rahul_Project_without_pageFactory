@@ -1,0 +1,173 @@
+14:12:10.856 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+14:12:10.957 [main] INFO  testCases.TC_001_LoginTest - Clicked on My Bank Manager button
+14:12:13.961 [main] INFO  testCases.TC_001_LoginTest - ***  Finished TC_001_AccountRegistrationTest ***
+14:18:22.078 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+14:18:22.163 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+14:18:25.176 [main] INFO  testCases.TC_001_LoginTest - ***  Finished TC_001_LoginTest ***
+08:08:02.892 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+08:08:02.989 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+08:08:06.149 [main] INFO  testCases.TC_001_LoginTest - ***  Finished TC_001_LoginTest ***
+08:09:59.552 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+08:09:59.649 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+08:10:08.569 [main] INFO  testCases.TC_001_LoginTest - ***  Finished TC_001_LoginTest ***
+08:22:39.190 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+08:22:39.282 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+08:26:27.784 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+08:26:27.870 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+08:27:31.733 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+08:27:31.814 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+08:29:23.741 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+08:29:23.829 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+08:30:41.910 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+08:30:41.995 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+08:32:30.594 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+08:32:30.682 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+08:34:23.533 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+08:34:23.633 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+08:39:00.826 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+08:39:00.922 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+08:40:19.730 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+08:40:19.818 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+08:41:54.769 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+08:41:54.852 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+08:57:49.144 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+08:57:49.276 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+08:57:49.276 [main] INFO  testCases.TC_001_LoginTest - ***  Finished TC_001_LoginTest ***
+09:12:00.825 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+09:12:00.954 [main] INFO  testCases.TC_001_LoginTest - Providing customer data
+09:12:10.981 [main] ERROR testCases.TC_001_LoginTest - test failed
+09:21:55.576 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+09:21:55.669 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+09:24:02.838 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+09:24:02.940 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+09:24:05.943 [main] INFO  testCases.TC_001_LoginTest - ***  Finished TC_001_LoginTest ***
+09:25:30.136 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+09:25:30.224 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+09:27:44.199 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+09:27:44.286 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+09:28:35.171 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+09:28:35.259 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+09:40:54.990 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+09:40:55.084 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+09:53:26.158 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+09:53:26.248 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+09:56:58.660 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+09:56:58.745 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+09:58:31.970 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+09:58:32.063 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+11:34:37.081 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+11:34:37.783 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+11:36:26.454 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+11:36:26.540 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+11:39:25.023 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+11:39:25.106 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+11:41:44.534 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+11:41:44.623 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+11:43:17.343 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+11:49:16.181 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+11:49:30.334 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+11:51:23.843 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+11:51:48.984 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+11:52:27.982 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+11:52:31.074 [main] INFO  testCases.TC_001_LoginTest - ***  Finished TC_001_LoginTest ***
+11:53:05.832 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+11:53:09.031 [main] INFO  testCases.TC_001_LoginTest - ***  Finished TC_001_LoginTest ***
+11:53:31.982 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+11:53:35.084 [main] INFO  testCases.TC_001_LoginTest - ***  Finished TC_001_LoginTest ***
+11:55:59.395 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+11:55:59.487 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+11:56:02.635 [main] INFO  testCases.TC_001_LoginTest - ***  Finished TC_001_LoginTest ***
+11:57:53.072 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+11:57:53.155 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+11:57:56.317 [main] INFO  testCases.TC_001_LoginTest - ***  Finished TC_001_LoginTest ***
+13:12:51.639 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+13:12:51.735 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+13:12:54.889 [main] INFO  testCases.TC_001_LoginTest - ***  Finished TC_001_LoginTest ***
+13:17:30.769 [main] INFO  testCases.TC_002_AddCustomerLoginTest -  Starting TC_002_AddCustomerLoginTest 
+13:17:30.869 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+13:17:31.703 [main] INFO  testCases.TC_002_AddCustomerLoginTest -  Finished TC_002_AddCustomerLoginTest
+13:17:31.721 [main] INFO  testCases.TC_002_AddCustomerLoginTest -  Starting TC_002_AddCustomerLoginTest 
+13:19:27.832 [main] INFO  testCases.TC_002_AddCustomerLoginTest -  Starting TC_002_AddCustomerLoginTest 
+13:19:27.971 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+13:19:28.790 [main] INFO  testCases.TC_002_AddCustomerLoginTest -  Finished TC_002_AddCustomerLoginTest
+13:19:28.797 [main] INFO  testCases.TC_002_AddCustomerLoginTest -  Starting TC_002_AddCustomerLoginTest 
+13:20:53.973 [main] INFO  testCases.TC_002_AddCustomerLoginTest -  Starting TC_002_AddCustomerLoginTest 
+13:20:54.083 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+13:20:54.852 [main] INFO  testCases.TC_002_AddCustomerLoginTest -  Finished TC_002_AddCustomerLoginTest
+13:20:54.859 [main] INFO  testCases.TC_002_AddCustomerLoginTest -  Starting TC_002_AddCustomerLoginTest 
+13:34:27.477 [main] INFO  testCases.TC_002_AddCustomerLoginTest -  Starting TC_002_AddCustomerLoginTest 
+13:34:27.688 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+13:34:28.498 [main] INFO  testCases.TC_002_AddCustomerLoginTest -  Finished TC_002_AddCustomerLoginTest
+13:34:28.504 [main] INFO  testCases.TC_002_AddCustomerLoginTest -  Starting TC_002_AddCustomerLoginTest 
+14:21:05.269 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+14:21:05.364 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+14:21:08.512 [main] INFO  testCases.TC_001_LoginTest - ***  Finished TC_001_LoginTest ***
+16:28:20.309 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+16:28:20.401 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+16:28:23.553 [main] INFO  testCases.TC_001_LoginTest - ***  Finished TC_001_LoginTest ***
+16:28:27.373 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+16:29:31.423 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+16:35:48.849 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+16:38:10.556 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+16:40:16.996 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+17:09:47.772 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+17:13:28.310 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+08:40:08.881 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+10:57:58.979 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+11:06:21.719 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+11:19:29.749 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+11:20:23.841 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+11:23:52.382 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+11:29:51.812 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+11:54:18.615 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+12:01:55.182 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+12:06:08.392 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+12:55:27.694 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+12:56:51.767 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+12:56:51.855 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+12:56:55.013 [main] INFO  testCases.TC_001_LoginTest - ***  Finished TC_001_LoginTest ***
+13:27:52.792 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+13:27:52.887 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+13:27:56.050 [main] INFO  testCases.TC_001_LoginTest - ***  Finished TC_001_LoginTest ***
+13:29:09.213 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+13:30:48.828 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+13:32:15.569 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+13:36:14.148 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+13:41:30.349 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+14:03:18.856 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+14:39:57.463 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+14:42:51.858 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+14:46:58.529 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+14:52:26.868 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+14:54:43.651 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+14:54:43.742 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+14:54:58.213 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+14:57:35.010 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+14:57:35.103 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+14:57:49.099 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+15:03:09.652 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+15:03:09.741 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+15:03:24.734 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+15:04:56.315 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+15:04:56.401 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+15:04:59.585 [main] INFO  testCases.TC_001_LoginTest - ***  Finished TC_001_LoginTest ***
+15:05:05.855 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+15:07:16.322 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+15:07:16.419 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+15:07:19.559 [main] INFO  testCases.TC_001_LoginTest - ***  Finished TC_001_LoginTest ***
+15:07:23.746 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+17:13:37.535 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+17:13:37.637 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+17:13:40.802 [main] INFO  testCases.TC_001_LoginTest - ***  Finished TC_001_LoginTest ***
+17:13:45.543 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+08:00:17.749 [TestNG-tests-1] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+08:00:17.838 [TestNG-tests-1] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+08:00:20.468 [TestNG-tests-2] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+08:00:20.558 [TestNG-tests-2] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+08:00:20.999 [TestNG-tests-1] INFO  testCases.TC_001_LoginTest - ***  Finished TC_001_LoginTest ***
+08:00:23.839 [TestNG-tests-2] INFO  testCases.TC_001_LoginTest - ***  Finished TC_001_LoginTest ***
+08:03:57.034 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
+08:06:52.192 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest ***
+08:06:52.272 [main] INFO  testCases.TC_001_LoginTest - Clicked on Bank Manager Login button
+08:06:55.407 [main] INFO  testCases.TC_001_LoginTest - ***  Finished TC_001_LoginTest ***
+08:07:00.168 [main] INFO  testCases.TC_002_AddCustomerLoginTest - Clicked on Bank Manager Login button
